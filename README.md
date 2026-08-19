@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Voja a.c.a. @vjslvvjc
-- 👀 I’m currenlty <b>searchng for my firts Data Science job</b> and I just obtained IMB Data Scielce Professional Certificate.
-- 🌱 I am trainer in non-formal education and project manager with over 10 years of experience in work with civil- society organisations, decision making processes and international youth work. In non-formal educaton I was mainly focused on digital communication and campaign, online and public privacy rights, citizenship participation and human rights.
-- 📫 You can reach me on my <a href="linkedin.com/in/vojislavvujic/">LinkedIn profile</a>.
+👋 Hi, I’m Voja (@vjslvvjc) — a Data & Automation Specialist focused on turning complex processes into practical, scalable solutions.
+
+📊 I work across data analytics, automation, AI, Python, Power BI and process optimization, with a background in project management and 10+ years of international training and civil-society work.
+
+🚀 Interested in building smarter systems, solving real business problems, and continuously learning what’s next in data and AI.
